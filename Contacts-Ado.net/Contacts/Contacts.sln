@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyContacts", "MyContacts\MyContacts.csproj", "{483ABE67-21DD-4554-AFFF-A08056E71CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{C24D4A60-03A3-4677-9261-00CDC936E2C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{A1CE9243-DED3-4702-984C-10264E2AE24A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{483ABE67-21DD-4554-AFFF-A08056E71CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483ABE67-21DD-4554-AFFF-A08056E71CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483ABE67-21DD-4554-AFFF-A08056E71CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483ABE67-21DD-4554-AFFF-A08056E71CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24D4A60-03A3-4677-9261-00CDC936E2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24D4A60-03A3-4677-9261-00CDC936E2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24D4A60-03A3-4677-9261-00CDC936E2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24D4A60-03A3-4677-9261-00CDC936E2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1CE9243-DED3-4702-984C-10264E2AE24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CE9243-DED3-4702-984C-10264E2AE24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CE9243-DED3-4702-984C-10264E2AE24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CE9243-DED3-4702-984C-10264E2AE24A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51DE9ABC-2BBE-4563-90DF-638CED6CCA9A}
+	EndGlobalSection
+EndGlobal
